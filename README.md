@@ -15,4 +15,4 @@ First we shall begin with the setup, you will need a computer as modern as you c
 Begin by creating a folder on your machine, name it english100ProccesEssay, next open terminal, navigate to english100ProccesEssay folder, run cd english100ProccesEssay in terminal, once inside folder using terminal, run git init to initialize git repository, next, open vs code and add a index.html file in the root directory. We will be utilizing modern technologies like chat gpt to make us exponentially more efficient, open chat gpt, and ask “give me a index.html file for a landing page” 
 
 
-https://stevenmachuca144.github.io/index.html
+https://stevenmachuca144.github.io/English100ProccesEssay/
