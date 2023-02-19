@@ -76,6 +76,10 @@
     font-size: 1.2rem;
     margin-bottom: 2rem;
   }
+
+  #about {
+    margin-bottom: 100px;
+  }
   
   .button {
     display: inline-block;
@@ -102,6 +106,10 @@
   
   li {
     margin-bottom: 0.5rem;
+  }
+
+  .epic {
+    margin-bottom: 30px;
   }
   
   /* Footer styles */
